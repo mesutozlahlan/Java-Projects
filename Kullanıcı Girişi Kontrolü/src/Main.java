@@ -15,7 +15,7 @@ public class Main {
         while(true){
             System.out.print("Kullanici Adi : ");
             String kullanici = scanner.nextLine();
-            System.out.println("Parola : ");
+            System.out.print("Parola : ");
             String parola = scanner.nextLine();
             
             if(kullanici.equals(sys_kullanici_adi) && parola.equals(sys_parola)){

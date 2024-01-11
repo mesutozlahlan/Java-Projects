@@ -3,7 +3,7 @@ public class Main {
 
     public static void skorhesapla(String isim, int puan) {
         
-        System.out.println(isim +" adli oyuncunun "+ puan + "puani var" );
+        System.out.println(isim +" adli oyuncunun "+ puan + " puani var" );
         
     }
     public static void skorhesapla(int puan) {

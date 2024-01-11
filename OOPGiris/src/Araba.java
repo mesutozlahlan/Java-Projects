@@ -9,7 +9,7 @@ public class Araba {
     private String model;
        
     public void setModel (String model){
-        this.model =model;
+        this.model = model;
     }
     
     public String getModel(){

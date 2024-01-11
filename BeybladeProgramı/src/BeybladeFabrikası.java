@@ -8,7 +8,7 @@ public class BeybladeFabrikası {
         }
         else if (beyblade_turu.equals("Drayga")){
             
-            return new Dranza("Rei", 800, 250, "Beyaz Kaplan");
+            return new Drayga("Rei", 800, 250, "Beyaz Kaplan");
             
         }
         else if (beyblade_turu.equals("Dranza")){
